@@ -19,3 +19,4 @@ Lora MESH / Thread
 * https://tools.ietf.org/id/draft-vilajosana-6lpwa-lora-hc-00.html
 * https://openthread.io/guides/thread-primer/ipv6-addressing
 * https://github.com/openthread/openthread
+* https://readwrite.com/2016/11/02/thread-mesh-protocol/
