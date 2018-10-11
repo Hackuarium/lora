@@ -14,5 +14,8 @@ ESP32 with screen: seems useful to debug !
 * https://www.hackster.io/rayburne/lora-and-the-esp32-6ce9ba
 * https://www.instructables.com/id/ESP32-Long-Distance-LoRaWan/
 
-Lora MESH
+Lora MESH / Thread
 * https://docs.pycom.io/v/development_release/tutorials/lora/lora-mesh
+* https://tools.ietf.org/id/draft-vilajosana-6lpwa-lora-hc-00.html
+* https://openthread.io/guides/thread-primer/ipv6-addressing
+* https://github.com/openthread/openthread
