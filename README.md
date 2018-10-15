@@ -20,3 +20,7 @@ Lora MESH / Thread
 * https://openthread.io/guides/thread-primer/ipv6-addressing
 * https://github.com/openthread/openthread
 * https://readwrite.com/2016/11/02/thread-mesh-protocol/
+
+## Native mesh in ESP32
+
+* https://www.espressif.com/en/products/software/esp-mesh/overview
