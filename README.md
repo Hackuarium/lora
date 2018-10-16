@@ -24,3 +24,8 @@ Lora MESH / Thread
 ## Native mesh in ESP32
 
 * https://www.espressif.com/en/products/software/esp-mesh/overview
+
+## nrf24l01
+
+* https://blog.blackoise.de/2016/02/fixing-your-cheap-nrf24l01-palna-module/
+* https://hackaday.com/2016/05/20/making-solar-powered-networked-birdhouses-putting-them-in-the-middle-of-the-woods/
