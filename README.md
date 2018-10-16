@@ -32,3 +32,7 @@ Lora MESH / Thread
 * https://www.electrodragon.com/product/1000-meters-nrf24l01-long-distance-module/
 * https://maniacbug.github.io/RF24/classRF24.html#details
 * http://tmrh20.github.io/RF24Mesh/ 
+
+## Alternatives
+
+* https://www.nxp.com/products/wireless/proprietary-ieee-802.15.4-based/zigbee-and-ieee802.15.4-wireless-microcontroller-with-512-kb-flash-32-kb-ram:JN5169
