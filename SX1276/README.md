@@ -57,3 +57,7 @@ Default configuration:
   - bits 7:
     - 0: Transparent transmission mode
     - 1: Fixed transmission mode: First 3 bytes are ADDH, ADDL and CHAN
+
+## Zigbee
+
+* https://www.nccgroup.trust/globalassets/resources/us/presentations/warner_arduino_zigbee_stack.pdf
