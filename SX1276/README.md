@@ -36,3 +36,24 @@ There is a better model that is available (868T30D) and that could reach 8km.
 
 - Broadcast address: 0x0000 or 0xFFFF
 - Monitoring address: 0x0000 or 0xFFFF
+
+## Configuration
+
+To set configuration you need to set M0 and M1 to 1
+
+Default configuration:
+
+`C0 00 00 1A 06 40`
+
+- byte 0: HEAD: C0 = write on power off, C2 = volatile
+- byte 1: ADDH: High address byte of module
+- byte 2: ADDL: Low address byte of module
+- byte 3: SPED:
+  - bits 3-7: Serial communication speed, 1A = 9600 8N1: 00011
+  - bits 0-2: Air data rate: 000=300, 010=2400
+- byte 4: CHAN
+  - bits 0-4: 862 + 1 \* value
+- byte 5: OPTION
+  - bits 7:
+    - 0: Transparent transmission mode
+    - 1: Fixed transmission mode: First 3 bytes are ADDH, ADDL and CHAN
